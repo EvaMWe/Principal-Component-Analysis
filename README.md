@@ -1,4 +1,4 @@
-# Principle-Component-Analysis
+# Principal-Component-Analysis
 
 This is a summary of MATLAB tools I developed to facilitate PCA analysis
 
